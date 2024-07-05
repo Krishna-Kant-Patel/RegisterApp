@@ -1,0 +1,84 @@
+.container{
+    width: 717px;
+    height: 776px;
+    position: absolute;
+    top: 124px;
+    left: 354px;
+    border-radius: 70px;
+    background-color: #27291E24;
+    backface-visibility: 14%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+}
+.container h1{
+    height: 52px;
+    width: 298px;
+}
+.container div{
+    display: flex;
+    align-items: center;
+    
+}
+.container input{
+    padding-left: 90px;
+    border: none;
+    height: 52px;
+    width: 326px;
+    border-radius: 22px;
+    background-color: #FFFFFF;
+}
+.inputIcons, .emailIcons, .passIcons{
+    position: absolute;
+    margin-left: 25px;
+}
+.inputIcons{
+    width: 30px;
+    height: 35px;
+}
+.emailIcons{
+    width: 51px;
+    height: 33px;
+    border: 1px solid #FBF8F8;
+}
+.passIcons{
+    width: 48px;
+    height: 27px;
+    
+}
+.eyeIcons{
+    width:33px;
+    height: 33px;
+    position: absolute;
+    margin-left: 350px;
+    cursor: pointer;
+}
+
+.submitbtn{
+    width: 208px;
+    height: 64px;
+    border: none;
+    background-color: #0078D4;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: Asap;
+    line-height: 36px;
+    cursor: pointer;
+
+}
+.para{
+    width: 281px;
+    height: 23px;
+    font-family: Asap;
+    font-weight: 600;
+    text-align: center;
+    line-height: 22.92px;
+}
+.para span{
+    color: red;
+    cursor: pointer;
+}
