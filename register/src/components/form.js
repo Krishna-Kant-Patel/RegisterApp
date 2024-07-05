@@ -45,6 +45,12 @@ const RegistrationForm = () => {
       const res = await axios.post('https://reguser.netlify.app/.netlify/functions/api/register', formData);
       console.log(res.data);
       toast.success('User registered successfully');
+      setFormData({
+        fullName: '',
+        email: '',
+        password: '',
+        confirmPassword: '',
+      })
     } catch (err) {
       console.error(err);
       toast.error('Error registering user');
