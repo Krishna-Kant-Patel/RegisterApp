@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/RegisterApp/static/css/main.3a44e452.css",
-    "main.js": "/RegisterApp/static/js/main.0bb80e68.js",
+    "main.css": "/RegisterApp/static/css/main.f948ddac.css",
+    "main.js": "/RegisterApp/static/js/main.d8c6ba65.js",
     "static/js/453.e0ecf79a.chunk.js": "/RegisterApp/static/js/453.e0ecf79a.chunk.js",
     "static/media/email.png": "/RegisterApp/static/media/email.518318b5d866653559c1.png",
-    "static/media/logo.svg": "/RegisterApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/RegisterApp/index.html",
-    "main.3a44e452.css.map": "/RegisterApp/static/css/main.3a44e452.css.map",
-    "main.0bb80e68.js.map": "/RegisterApp/static/js/main.0bb80e68.js.map",
+    "main.f948ddac.css.map": "/RegisterApp/static/css/main.f948ddac.css.map",
+    "main.d8c6ba65.js.map": "/RegisterApp/static/js/main.d8c6ba65.js.map",
     "453.e0ecf79a.chunk.js.map": "/RegisterApp/static/js/453.e0ecf79a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a44e452.css",
-    "static/js/main.0bb80e68.js"
+    "static/css/main.f948ddac.css",
+    "static/js/main.d8c6ba65.js"
   ]
 }
